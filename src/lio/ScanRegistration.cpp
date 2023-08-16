@@ -18,7 +18,6 @@ bool Feature_Mode = false;
 bool Use_seg = true;
 // string my_topic = "/tanwaylidar_undistort";
 string my_topic = "/tanwaylidar_pointcloud";
-
 string this_topic = "/livox/lidar";
 using namespace std;
 //sensor_msgs::PointCloud2::ConstPtr
